@@ -1,8 +1,10 @@
 Lorum ipsum.
-<<<<<<< HEAD
-
-=======
 
 Hello, my name is Andrew.
->>>>>>> refs/remotes/origin/master
+hah
+
+
+Hello, my name is Andrew.
+
 conflicts coming in!!!!!!!!
+no more conflicts :) ez
